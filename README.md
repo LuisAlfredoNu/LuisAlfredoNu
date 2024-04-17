@@ -38,6 +38,8 @@ the next generation of computational solutions for science.
 ![Singularity](https://img.shields.io/badge/Singularity-7D1E40?style=for-the-badge&logo=slurnm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlfredoNu&layout=compact)
+
 <!--
 **LuisAlfredoNu/LuisAlfredoNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
